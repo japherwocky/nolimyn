@@ -3,10 +3,9 @@ enderio - madpack
 twilight forest - madpack
 nei - curse somehow
 animal bikes - http://www.kodevelopment.nl/minecraft/animalbikes/
-minefactory reloaded - madpack, harveters/planters
 
 cofh core 3.0.0B9-40 - http://www.curse.com/mc-mods/minecraft/cofhcore
-
+minefactory reloaded - http://teamcofh.com/minefactory-reloaded/
 minefactoryreloaded-compatmagicalcrops - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293567-use-magical-crops-with-the-mfr-harvester?page=3	
 
 extra utilities - madpack, transfer nodes and watering cans
