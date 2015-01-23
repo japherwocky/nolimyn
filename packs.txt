@@ -39,3 +39,5 @@ meteors - https://github.com/AlexDGr8r/MeteorsMod
 dynamic sword skills - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294232-1-6-4-1-8-dynamic-sword-skills-beta-release-for
 
 chocolate quest - http://chocolatequest.wikia.com/wiki/The_Chocolate_Quest_Wiki
+
+Flaxbeard's Steam Power - http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power
