@@ -7,6 +7,9 @@ animal bikes - http://www.kodevelopment.nl/minecraft/animalbikes/
 cofh core 3.0.0B9-40 - http://www.curse.com/mc-mods/minecraft/cofhcore
 minefactory reloaded - http://teamcofh.com/minefactory-reloaded/
 minefactoryreloaded-compatmagicalcrops - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293567-use-magical-crops-with-the-mfr-harvester?page=3	
+thermal expansion - http://teamcofh.com/ # cyclic assemblers are a crutch for enderio, but need item charger for:
+
+simply jetpacks - https://github.com/Tonius/SimplyJetpacks/
 
 extra utilities - madpack, transfer nodes and watering cans
 
@@ -14,7 +17,7 @@ Magical Crops - madpack/skyfactory ultra secret minicio edition
 
 Project E - https://github.com/sinkillerj/ProjectE
 
-journeymap - http://journeymap.techbrew.net/
+# journeymap - http://journeymap.techbrew.net/ # i feel like this will come back actually
 
 wawla - not madpack! don't remember where from
 
@@ -26,9 +29,12 @@ mantle - ? prereq for tinker's construct
 
 roguelike dungeons - https://github.com/Greymerk/minecraft-roguelike
 
+
+# father toast
 lavamonsters - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob
-natural absorption - madpack / father toast thread
-utility mobs - turrets and golems, father toast thread
+natural absorption # shields
+utility mobs # turrets and golems
+
 
 special ai - make chickens defend the pack!  madpack
 
@@ -40,4 +46,4 @@ dynamic sword skills - http://www.minecraftforum.net/forums/mapping-and-modding/
 
 chocolate quest - http://chocolatequest.wikia.com/wiki/The_Chocolate_Quest_Wiki
 
-Flaxbeard's Steam Power - http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power
+reliquary - https://drone.io/github.com/TrainerGuy22/Reliquary/files
