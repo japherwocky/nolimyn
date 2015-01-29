@@ -47,3 +47,5 @@ dynamic sword skills - http://www.minecraftforum.net/forums/mapping-and-modding/
 chocolate quest - http://chocolatequest.wikia.com/wiki/The_Chocolate_Quest_Wiki
 
 reliquary - https://drone.io/github.com/TrainerGuy22/Reliquary/files
+
+weeping angels - https://github.com/TheTemportalist/WeepingAngels
