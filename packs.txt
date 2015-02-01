@@ -17,8 +17,6 @@ Magical Crops - madpack/skyfactory ultra secret minicio edition
 
 Project E - https://github.com/sinkillerj/ProjectE
 
-# journeymap - http://journeymap.techbrew.net/ # i feel like this will come back actually
-
 wawla - not madpack! don't remember where from
 
 deadly world - madpack, silverfish!
@@ -49,3 +47,8 @@ chocolate quest - http://chocolatequest.wikia.com/wiki/The_Chocolate_Quest_Wiki
 reliquary - https://drone.io/github.com/TrainerGuy22/Reliquary/files
 
 weeping angels - https://github.com/TheTemportalist/WeepingAngels
+
+machinemuse's modular powersuits (+Numina) - http://build.technicpack.net/job/ModularPowersuits/
+
+
+Opis (+ MobiusCore) - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292610-server-admin-opis-1-2-3-the-server-admin
