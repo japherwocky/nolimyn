@@ -1,6 +1,9 @@
 veinminer - madpack build
-enderio - madpack
-twilight forest - madpack
+
+enderio - enderio.com
+
+twilight forest - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-3-3-snow-queen-troll
+
 nei - curse somehow
 animal bikes - http://www.kodevelopment.nl/minecraft/animalbikes/
 
@@ -50,5 +53,5 @@ weeping angels - https://github.com/TheTemportalist/WeepingAngels
 
 machinemuse's modular powersuits (+Numina) - http://build.technicpack.net/job/ModularPowersuits/
 
-
 Opis (+ MobiusCore) - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292610-server-admin-opis-1-2-3-the-server-admin
+
