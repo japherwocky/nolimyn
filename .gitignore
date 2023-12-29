@@ -1,0 +1,10 @@
+libraries
+crash-reports
+logs
+world
+
+banned*
+ops.json
+whitelist.json
+usercache.json
+usernamecache.json
