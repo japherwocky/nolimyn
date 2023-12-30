@@ -6,7 +6,7 @@
   "forge:gems/sapphire": "null",
   "forge:ingots/bronze": "mekanism:ingot_bronze",
   "forge:ingots/electrum": "null",
-  "forge:silicon": "enderio:silicon",
+  "forge:silicon": "refinedstorage:silicon",
   "forge:gems/apatite": "null",
   "forge:ingots/silver": "null",
   "forge:dusts/saltpeter": "bloodmagic:saltpeter",
