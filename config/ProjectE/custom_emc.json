@@ -3,6 +3,34 @@
     {
       "item": "enderio:grains_of_infinity",
       "emc": 64
+    },
+    {
+      "item": "enderio:powdered_coal",
+      "emc": 69
+    },
+    {
+      "item": "enderio:dark_steel_ingot",
+      "emc": 420
+    },
+    {
+      "item": "biomesoplenty:black_sand",
+      "emc": 13
+    },
+    {
+      "item": "corn_delight:corn_seeds",
+      "emc": 16
+    },
+    {
+      "item": "corn_delight:corn",
+      "emc": 24
+    },
+    {
+      "item": "unusualfishmod:raw_triple_twirl_pleco",
+      "emc": 128
+    },
+    {
+      "item": "biomesoplenty:bramble",
+      "emc": 64
     }
   ]
 }
