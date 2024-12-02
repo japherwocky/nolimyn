@@ -8,3 +8,5 @@ ops.json
 whitelist.json
 usercache.json
 usernamecache.json
+
+jdk-*
