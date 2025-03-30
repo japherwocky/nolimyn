@@ -1,7 +1,9 @@
 libraries
 crash-reports
 logs
-world
+world*
+cache
+version*
 
 banned*
 ops.json
@@ -10,3 +12,8 @@ usercache.json
 usernamecache.json
 
 jdk-*
+
+plugins/spark*
+plugins/bStats*
+plugins/.paper-remapped
+plugins/GriefPreventionData
