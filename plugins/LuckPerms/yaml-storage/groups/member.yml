@@ -1,0 +1,5 @@
+permissions:
+  - griefprevention.claim.expanded
+  - griefprevention.claim.list
+inheritance:
+  - default

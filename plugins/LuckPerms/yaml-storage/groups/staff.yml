@@ -1,0 +1,7 @@
+permissions:
+  - griefprevention.admin
+  - luckperms.*
+  - luckperms.command.user
+  - luckperms.command.group
+inheritance:
+  - member

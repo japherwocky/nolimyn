@@ -216,7 +216,7 @@ sync-minutes: -1
 # - When using a file-based storage type, LuckPerms can monitor the data files for changes, and
 #   automatically update when changes are detected.
 # - If you don't want this feature to be active, set this option to false.
-watch-files: false
+watch-files: true
 
 # Define which messaging service should be used by the plugin.
 #
@@ -719,3 +719,35 @@ register-command-list-data: true
 # If LuckPerms should attempt to resolve Vanilla command target selectors for LP commands.
 # See here for more info: https://minecraft.wiki/w/Target_selectors
 resolve-command-selectors: false
+
+
+
+
+# Group definitions
+groups:
+  public:
+    # Default group for all players
+    default: true
+    permissions:
+      - luckperms.command.help
+      - griefprevention.build
+      - griefprevention.claim
+    inheritance:
+      - none
+
+  member:
+    # Member group with additional permissions
+    permissions:
+      - griefprevention.claim.expanded
+      - griefprevention.claim.list
+    inheritance:
+      - public
+
+  staff:
+    # Staff group with admin permissions
+    permissions:
+      - griefprevention.admin
+      - luckperms.command.user
+      - luckperms.command.group
+    inheritance:
+      - member
