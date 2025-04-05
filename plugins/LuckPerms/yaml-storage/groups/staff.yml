@@ -3,5 +3,6 @@ permissions:
   - luckperms.*
   - luckperms.command.user
   - luckperms.command.group
+  - se.all
 inheritance:
   - member

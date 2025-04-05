@@ -2,6 +2,7 @@ libraries
 crash-reports
 logs
 world*
+funworld
 cache
 version*
 
@@ -10,7 +11,7 @@ ops.json
 whitelist.json
 usercache.json
 usernamecache.json
-.console-history
+.console_history
 server.properties
 
 jdk-*

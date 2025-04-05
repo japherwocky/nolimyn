@@ -44,7 +44,7 @@ remove-effects-on-heal: false
 vanish-on-join: false
 # Enter a name in between the quotations to enable or leave empty to disable
 # This will be used to send a message in the 'staff-chat-channel-name', 'report-user-channel-name' and 'report-bug-channel-name' on Discord
-server-name: "N O L I M Y N"
+server-name: "FUN"
 # How long Players have to wait until they can use the Repair Command again
 # Set to 0 to Disable
 # Restart Required
@@ -196,11 +196,13 @@ home-teleport: 5
 # Default: true
 home-movement-cancel: true
 # Enable Blacklisted World Feature for Homes
-enable-home-blacklist: false
+enable-home-blacklist: true
 # Blacklist Worlds where Player's cannot set homes
 # Default: False
 home-blacklist:
   - world
+  - world_nether
+  - world_the_end
 ############################################################
 # +------------------------------------------------------+ #
 # +              Server Essentials (Teleport)            + #
@@ -208,10 +210,12 @@ home-blacklist:
 ############################################################
 # Enable Blacklisted World Feature for Teleporting to Players
 # Default: False
-enable-teleport-blacklist: false
+enable-teleport-blacklist: true
 # Blacklist Worlds where Player's cannot teleport to other Players
 teleport-blacklist:
   - world
+  - world_nether
+  - world_the_end
 # Enable Teleporting in Blacklisted World if both players are in the world
 # Default: False
 enable-teleport-in-world: false
@@ -247,10 +251,12 @@ death-save: true
 world-save: true
 # Enable Blacklisted World Feature for the Back Command
 # Default: False
-enable-back-blacklist: false
+enable-back-blacklist: true
 # Blacklist Worlds where Player's cannot use /back
 back-blacklist:
   - world
+  - world_nether
+  - world_the_end
 # How long Players have to wait until they can use the Back Command again
 # Set to 0 to Disable
 # Restart Required

@@ -1,0 +1,33 @@
+configVersion: '3.0.1'
+Enable: true
+DisplayName: TestPortal
+Portal: 
+  Frame: 
+    Material: STONE
+    Face: all
+  InsideMaterial: NETHER_PORTAL
+  LighterMaterial: FLINT_AND_STEEL
+  ParticlesColor: '255;255;255'
+  MinimumWidth: 4
+  MinimumHeight: 5
+  MaximumWidth: 14
+  MaximumHeight: 15
+Options: 
+  EnableParticles: true
+  ExitPortal: 
+    Enable: true
+    FixedWidth: -1
+    FixedHeight: -1
+  AllowedWorlds: 
+    []
+  TeleportDelay: 4
+World: 
+  Name: world
+Entities: 
+  Transformation: 
+    - 'SKELETON->WITHER_SKELETON'
+  Spawning: 
+    Delay: '60000-120000'
+    List: 
+      - 'ZOMBIE;30'
+      - 'SKELETON;30'

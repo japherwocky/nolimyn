@@ -12,4 +12,5 @@ portal-auto-link-when:
 worlds:
   funworld:
     portalgoesto:
-      NETHER: world
+      NETHER: world_nether
+      ENDER: world_the_end
