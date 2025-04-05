@@ -1,0 +1,74 @@
+[
+  {
+    "centerY": 72.5,
+    "world": "world",
+    "centerZ": -521.5,
+    "linkedPortalCenterZ": -521.5,
+    "portalTags": "{}",
+    "centerX": -676.5,
+    "customPortal": "cobble",
+    "linkedPortalWorld": "world_nether",
+    "linkedPortalCenterY": 130.5,
+    "linkedPortalCenterX": -674.5
+  },
+  {
+    "centerY": 130.5,
+    "world": "world_nether",
+    "centerZ": -521.5,
+    "linkedPortalCenterZ": -521.5,
+    "portalTags": "{}",
+    "centerX": -674.5,
+    "customPortal": "cobble",
+    "linkedPortalWorld": "world",
+    "linkedPortalCenterY": 72.5,
+    "linkedPortalCenterX": -676.5
+  },
+  {
+    "centerY": 108.5,
+    "world": "funworld",
+    "centerZ": 87.0,
+    "linkedPortalCenterZ": 89.0,
+    "portalTags": "{}",
+    "centerX": 138.5,
+    "customPortal": "cobble",
+    "linkedPortalWorld": "world",
+    "linkedPortalCenterY": -11.5,
+    "linkedPortalCenterX": 137.5
+  },
+  {
+    "centerY": -11.5,
+    "world": "world",
+    "centerZ": 89.0,
+    "linkedPortalCenterZ": 87.0,
+    "portalTags": "{}",
+    "centerX": 137.5,
+    "customPortal": "cobble",
+    "linkedPortalWorld": "funworld",
+    "linkedPortalCenterY": 108.5,
+    "linkedPortalCenterX": 138.5
+  },
+  {
+    "centerY": 67.5,
+    "world": "funworld",
+    "centerZ": -65.5,
+    "linkedPortalCenterZ": -55.5,
+    "portalTags": "{}",
+    "centerX": -68.0,
+    "customPortal": "cobble",
+    "linkedPortalWorld": "world",
+    "linkedPortalCenterY": -10.5,
+    "linkedPortalCenterX": -77.0
+  },
+  {
+    "centerY": -10.5,
+    "world": "world",
+    "centerZ": -55.5,
+    "linkedPortalCenterZ": -65.5,
+    "portalTags": "{}",
+    "centerX": -77.0,
+    "customPortal": "cobble",
+    "linkedPortalWorld": "funworld",
+    "linkedPortalCenterY": 67.5,
+    "linkedPortalCenterX": -68.0
+  }
+]
