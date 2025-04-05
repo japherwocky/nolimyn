@@ -10,6 +10,8 @@ ops.json
 whitelist.json
 usercache.json
 usernamecache.json
+.console-history
+server.properties
 
 jdk-*
 
@@ -17,3 +19,4 @@ plugins/spark*
 plugins/bStats*
 plugins/.paper-remapped
 plugins/GriefPreventionData
+plugins/LuckPerms/libs*

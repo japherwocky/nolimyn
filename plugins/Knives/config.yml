@@ -2,7 +2,7 @@ knife1:
   craft_amount: 5 # Integer
   max_amount: 50 # Integer
   damage: 2.0 # Double
-  cooldown: 500 # Integer In milliseconds
+  cooldown: 420 # Integer In milliseconds
   name: "<red>Iron Throwing Knife" # String
   lore: # List<String>
     - "A sharp knife"
@@ -15,7 +15,7 @@ knife2:
   craft_amount: 5
   max_amount: 50
   damage: 1.7
-  cooldown: 300
+  cooldown: 420
   name: "<red>Copper Throwing Knife"
   lore: # List<String>
     - "A copper knife"
@@ -24,4 +24,18 @@ knife2:
   recipe: >
     # | # | # |
     # | COPPER_INGOT | # |
+    STICK | # | # |
+knife3:
+  craft_amount: 5
+  max_amount: 50
+  damage: 2.5
+  cooldown: 420
+  name: "<cyan>Diamond Throwing Knife"
+  lore: # List<String>
+    - "A diamond knife"
+  material: DIAMOND_SWORD
+  mass: .7 # This is a factor defining how fast objects fall. Best to keep it between 0.3 and 3.
+  recipe: >
+    # | # | # |
+    # | DIAMOND | # |
     STICK | # | # |
