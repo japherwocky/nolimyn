@@ -283,4 +283,4 @@ fly-blacklist:
 start-balance: 0
 # Set this to the Currency Symbol you would like to use.
 # Default: $
-currency-symbol: '$'
+currency-symbol: '￥'
