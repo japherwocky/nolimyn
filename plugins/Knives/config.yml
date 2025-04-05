@@ -19,7 +19,7 @@ knife2:
   name: "<red>Copper Throwing Knife"
   lore: # List<String>
     - "A copper knife"
-  material: COPPER_SWORD
+  material: STONE_SWORD
   mass: .6 # This is a factor defining how fast objects fall. Best to keep it between 0.3 and 3.
   recipe: >
     # | # | # |

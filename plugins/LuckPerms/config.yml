@@ -732,6 +732,12 @@ groups:
       - luckperms.command.help
       - griefprevention.build
       - griefprevention.claim
+      - se.spawn
+      - se.home
+      - se.sethome.1
+      - se.deletehome
+      - se.balance
+      - se.baltop
     inheritance:
       - none
 
@@ -740,6 +746,8 @@ groups:
     permissions:
       - griefprevention.claim.expanded
       - griefprevention.claim.list
+      - se.sethome.2
+      - se.listhomes
     inheritance:
       - public
 
@@ -749,5 +757,7 @@ groups:
       - griefprevention.admin
       - luckperms.command.user
       - luckperms.command.group
+      - se.all
+      - se.sethome.unlimited
     inheritance:
       - member
