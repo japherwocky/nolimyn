@@ -1,1 +1,2 @@
-libs/*
+libs*
+yaml-storage/actions.txt
