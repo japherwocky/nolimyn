@@ -5,11 +5,13 @@ GriefPrevention:
     world: -1
     world_nether: -1
     world_the_end: -1
+    funworld: -1
   Claims:
     Mode:
       world: Survival
       world_the_end: Disabled
       world_nether: Disabled
+      funworld: Survival
     PreventGlobalMonsterEggs: true
     PreventTheft: true
     ProtectCreatures: true
@@ -75,6 +77,7 @@ GriefPrevention:
       world: true
       world_nether: true
       world_the_end: true
+      funworld: false
     ProtectFreshSpawns: true
     PunishLogout: true
     CombatTimeoutSeconds: 15
