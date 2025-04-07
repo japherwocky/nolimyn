@@ -1,5 +1,8 @@
 permissions:
   - griefprevention.claim.expanded
   - griefprevention.claim.list
+  - se.sethome.2
+  - se.listhomes
+  - se.back
 inheritance:
   - default

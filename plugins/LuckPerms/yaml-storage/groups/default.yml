@@ -2,6 +2,13 @@ default: true
 permissions:
   - griefprevention.build
   - griefprevention.claim
+  - se.spawn
+  - se.home
+  - se.sethome
+  - se.sethome.1
+  - se.deletehome
+  - se.balance
+  - se.baltop
 inheritance:
   - none
 
