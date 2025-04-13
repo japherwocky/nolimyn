@@ -21,7 +21,7 @@ check-for-updates: true
 #  folder. Included languages by default: English, Dutch, German, French, Spanish,
 #  Swedish, Italian, Chinese, Hungarian, Russian and Turkish.
 language: 'English'
-currency-symbol: '￥'
+currency-symbol: '🌟'
 
 # This message is sent as action bar (bottom of a player's screen) by default,
 #  telling the player how much money they have picked up. The variable '{currency}'
@@ -140,7 +140,7 @@ passive-drop: false
 # The minimum percentage of damage a player needs to deal to a mob to drop coins.
 #  This can be useful for one-hit mob grinders that damage mobs from fall damage,
 #  for example. Value from 0.00 to 1.00: 0.00 meaning 0%, 1.00 meaning 100%.
-percentage-player-hit: 0.80
+percentage-player-hit: 0.13
 
 # Set the maximum amount of coin drops (from mob kills) per block location in a
 #  specific time. This can be useful to prevent overuse of grinders. Defaults to 1:
@@ -157,7 +157,7 @@ drop-chance: 0.90
 # Should mobs from spawners drop coins? Mobs from spawners won't drop a coin by
 #  default. When 'false', mobs can still drop coins when the player (who killed) has
 #  permission 'coins.spawner'.
-spawner-drop: false
+spawner-drop: true
 
 # Also drop coins when the mob is NOT killed by a player? So the mob has a natural
 #  death, excluding de-spawns. That means that any death cause will have the mob

@@ -28,9 +28,9 @@ enable-leave-message: true
 # Enable or Disable the First Time Join Message
 enable-first-time-join-message: true
 # Enable or Disable the Staff Join Message
-enable-staff-join-message: true
+enable-staff-join-message: false
 # Enable or Disable the Staff Leave Message
-enable-staff-leave-message: true
+enable-staff-leave-message: false
 # Enable to send players to the Newbie Spawn upon Joining for the First Time
 # If a Newbie Spawn isn't set, this will send players to the main Spawn
 spawn-on-first-join: false
@@ -289,4 +289,4 @@ fly-blacklist:
 start-balance: 0
 # Set this to the Currency Symbol you would like to use.
 # Default: $
-currency-symbol: '￥'
+currency-symbol: '𐃏'

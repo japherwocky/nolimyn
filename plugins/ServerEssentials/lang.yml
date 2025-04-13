@@ -1,17 +1,16 @@
-no-permission-message: You do not have the required permission (<permission>) to run
-  this command.
+no-permission-message: You do not have permission.
 plugins-command: Hah! Nice try...
-command-timeout: You cannot use this command for another <time> Seconds
+command-timeout: You cannot use this command for another <time>s
 player-offline: Player does not exist!
 target-offline: Target is offline
 console-invalid: You cannot execute this command in Console
 invalid-player: You are not a player
 incorrect-format: Incorrect format! Please use &6<command>
 target-self: You cannot target yourself.
-first-time-join: Welcome <player> to the Server!
+first-time-join: Welcome <player> to the FUN!
 join-symbol: '&6[&a+&6] &f<player>'
 leave-symbol: '&6[&c-&6] &f<player>'
-staff-join-message: '&d(&5&lStaff&d) <player> &7has joined the game'
+staff-join-message: '&6[&a++&6] &f<player>'
 staff-leave-message: '&d(&5&lStaff&d) <player> &7has quit the game'
 website-command: Website Command
 discord-command: Discord Command
@@ -21,11 +20,11 @@ gui-confirm-name: '&aYes'
 gui-deny-name: '&cNo'
 afk-active: You are now AFK
 afk-inactive: You are no longer AFK
-back-previous-location: Teleported to previous location
+back-previous-location: BACK
 back-no-location: You have no location to return to
-back-blacklisted-world: Cannot use Back Command in a Blacklisted World
+back-blacklisted-world: Cannot use Back here
 back-movement-cancel: Teleportation to previous location cancelled due to Movement
-back-wait-message: Teleporting to previous location in <time> Seconds
+back-wait-message: Teleporting in <time>s
 clear-chat: |-
   &6|-------------------+====+-------------------|
   &cThe chat has been cleared by a staff member.
@@ -88,11 +87,11 @@ target-home-deletion-success: <target>(s) Home has been successfully deleted
 home-set-success: Successfully set home location
 home-blacklisted-world: You cannot set a Home in a Blacklisted World
 home-world-invalid: World isn't loaded!
-home-max-homes: 'You cannot set any more homes (Max Homes: <max>)'
+home-max-homes: You cannot have more than <max> homes
 home-subtitle: Successfully teleported to <home>
 home-message: Successfully teleported to <home>
-home-wait-message: Teleporting to <home> in <time> Seconds
-target-home-wait-message: Teleporting to <target>(s) Home in <time> Seconds
+home-wait-message: Teleporting to <home> in <time>s
+target-home-wait-message: Teleporting to <target>(s) Home in <time>s
 home-invalid: Home &6<home> &fdoesn't exist or is invalid
 home-file-error: home.yml file is empty or null
 home-gui-name: Home GUI

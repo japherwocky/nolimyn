@@ -1,6 +1,6 @@
 configVersion: '3.0.1'
 Enable: true
-DisplayName: TestPortal
+DisplayName: FunPortal
 Portal: 
   Frame: 
     Material: STONE
@@ -22,7 +22,7 @@ Options:
     []
   TeleportDelay: 4
 World: 
-  Name: world
+  Name: funworld
 Entities: 
   Transformation: 
     - 'SKELETON->WITHER_SKELETON'
