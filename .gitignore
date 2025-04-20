@@ -20,5 +20,5 @@ plugins/spark*
 plugins/bStats*
 plugins/.paper-remapped
 plugins/GriefPreventionData
-plugins/LuckPerms/libs
+plugins/LuckPerms/libs/
 plugins/Dimensions/data
