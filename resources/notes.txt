@@ -1,0 +1,19 @@
+
+from https://www.reddit.com/r/MinecraftCommands/comments/149ytfp/how_to_add_a_resourcepack_to_server/
+
+"""
+To do this, you need to upload your seruspack somewhere and get a direct download link that ends with .zip, for example: https://cdn.discordapp.com/attachments/336548242047369218/1118874085984849940/example.zip
+
+You can use for example Discord for this, or some cloud storage. Anything.
+
+Now that you have a direct link to your resource pack, it would be nice if you could also create a SHA-1 hash file checksum. For this you can use this site.
+
+In the example it would be: 28f86b2700e92b2c54ef77be1ca7177fec2fbf20
+
+Now open the server.properties file on your server and find the resourcepack and SHA-1 field and fill in those.
+
+Here is an example:
+
+resource-pack=https://cdn.discordapp.com/attachments/336548242047369218/1118874085984849940/example.zip
+resource-pack-sha1=28f86b2700e92b2c54ef77be1ca7177fec2fbf20
+"""
